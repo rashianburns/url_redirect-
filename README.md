@@ -15,18 +15,18 @@ Use the following steps to run the script.
 
 1. Create a file called "batch.list" and place the requested URL source and destination as follows.
 
-<URL Source>
-<URL Destination>
-<URL Source>
-<URL Destination>
-<URL Source>
-<URL Destination>
-<URL Source>
-<URL Destination>
-<URL Source>
-<URL Destination>
-<URL Source>
-<URL Destination>
+-URL Source-
+-URL Destination-
+-URL Source-
+-URL Destination-
+-URL Source-
+-URL Destination-
+-URL Source-
+-URL Destination-
+-URL Source-
+-URL Destination-
+-URL Source-
+-URL Destination-
 
 2. Update the code variables to match your SVN_HOME and a WORK_HOME folders.
 
