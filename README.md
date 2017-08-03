@@ -2,7 +2,7 @@ This script is for semi-automating URL redirects for NYT4 via SVN, www/www-www.n
 
 a) Convert requested URL Source to meet SVN process requirements [Upper Case to Lower Case, etc].
 
-b) Removes current entries of requested URL Sources on www-www.nytimes.com-301-map.txt.
+b) Removes current entries of requested URL Sources.
 
 c) Appends all new and updated URL Sources at the bottom of the file.
 
